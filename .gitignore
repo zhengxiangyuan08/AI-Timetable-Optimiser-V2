@@ -1,0 +1,2 @@
+__pycache__/
+*.py[cod]git rm -r --cached modules/__pycache__
